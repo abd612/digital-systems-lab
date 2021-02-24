@@ -1,0 +1,28 @@
+Command line:
+   MealyZeroDetectorSB_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  51173
+
+Mon Nov 28 19:11:19 2016
+
+
+ Elaboration Time: 0.0625 sec
+
+ Current Memory Usage: 848.605 Meg
+
+ Total Signals          : 16
+ Total Nets             : 17
+ Total Signal Drivers   : 6
+ Total Blocks           : 2
+ Total Primitive Blocks : 2
+ Total Processes        : 10
+ Total Traceable Variables  : 25
+ Total Scalar Nets and Variables : 110
+
+ Total Simulation Time: 0.0625 sec
+
+ Current Memory Usage: 849.654 Meg
+
+Mon Nov 28 19:11:28 2016
+

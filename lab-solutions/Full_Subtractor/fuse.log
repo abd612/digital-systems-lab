@@ -1,0 +1,21 @@
+Running: D:\DesktopApps\Xilinx_ISE\14.5\ISE_DS\ISE\bin\nt\unwrapped\fuse.exe -intstyle ise -incremental -lib unisims_ver -lib unimacro_ver -lib xilinxcorelib_ver -lib secureip -o D:/DesktopApps/Xilinx_ISE/Workspace/Full_Subtractor/test_isim_beh.exe -prj D:/DesktopApps/Xilinx_ISE/Workspace/Full_Subtractor/test_beh.prj work.test work.glbl 
+ISim P.58f (signature 0x8ef4fb42)
+Number of CPUs detected in this system: 4
+Turning on mult-threading, number of parallel sub-compilation jobs: 8 
+Determining compilation order of HDL files
+Analyzing Verilog file "D:/DesktopApps/Xilinx_ISE/Workspace/Full_Subtractor/full_subtractor.v" into library work
+Analyzing Verilog file "D:/DesktopApps/Xilinx_ISE/Workspace/Full_Subtractor/test.v" into library work
+Analyzing Verilog file "D:/DesktopApps/Xilinx_ISE/14.5/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+Completed static elaboration
+Fuse Memory Usage: 156016 KB
+Fuse CPU Usage: 343 ms
+Compiling module full_subtractor
+Compiling module test
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 3 Verilog Units
+Built simulation executable D:/DesktopApps/Xilinx_ISE/Workspace/Full_Subtractor/test_isim_beh.exe
+Fuse Memory Usage: 163492 KB
+Fuse CPU Usage: 389 ms

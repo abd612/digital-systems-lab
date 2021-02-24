@@ -1,0 +1,22 @@
+Running: D:\DesktopApps\Xilinx_ISE\14.5\ISE_DS\ISE\bin\nt\unwrapped\fuse.exe -intstyle ise -incremental -lib unisims_ver -lib unimacro_ver -lib xilinxcorelib_ver -lib secureip -o D:/DesktopApps/Xilinx_ISE/Workspace/Binary_Adder_32_Bit/test_isim_beh.exe -prj D:/DesktopApps/Xilinx_ISE/Workspace/Binary_Adder_32_Bit/test_beh.prj work.test work.glbl 
+ISim P.58f (signature 0x8ef4fb42)
+Number of CPUs detected in this system: 4
+Turning on mult-threading, number of parallel sub-compilation jobs: 8 
+Determining compilation order of HDL files
+Analyzing Verilog file "D:/DesktopApps/Xilinx_ISE/Workspace/Binary_Adder_32_Bit/binary_adder_32_bit.v" into library work
+Analyzing Verilog file "D:/DesktopApps/Xilinx_ISE/Workspace/Binary_Adder_32_Bit/test.v" into library work
+Analyzing Verilog file "D:/DesktopApps/Xilinx_ISE/14.5/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+Completed static elaboration
+Fuse Memory Usage: 156464 KB
+Fuse CPU Usage: 468 ms
+Compiling module half_adder
+Compiling module full_adder
+Compiling module binary_adder_32_bit
+Compiling module test
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Compiled 5 Verilog Units
+Built simulation executable D:/DesktopApps/Xilinx_ISE/Workspace/Binary_Adder_32_Bit/test_isim_beh.exe
+Fuse Memory Usage: 163940 KB
+Fuse CPU Usage: 500 ms

@@ -1,0 +1,22 @@
+Running: D:\DesktopApps\Xilinx_ISE\14.5\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib unisims_ver -lib unimacro_ver -lib xilinxcorelib_ver -lib secureip -o D:/DesktopApps/Xilinx_ISE/Workspace/BinaryCounterCB/test_isim_beh.exe -prj D:/DesktopApps/Xilinx_ISE/Workspace/BinaryCounterCB/test_beh.prj work.test work.glbl 
+ISim P.58f (signature 0x7708f090)
+Number of CPUs detected in this system: 4
+Turning on mult-threading, number of parallel sub-compilation jobs: 8 
+Determining compilation order of HDL files
+Analyzing Verilog file "D:/DesktopApps/Xilinx_ISE/Workspace/BinaryCounterCB/BinaryCounterCB.v" into library work
+Analyzing Verilog file "D:/DesktopApps/Xilinx_ISE/Workspace/BinaryCounterCB/test.v" into library work
+Analyzing Verilog file "D:/DesktopApps/Xilinx_ISE/14.5/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+WARNING:HDLCompiler:189 - "D:/DesktopApps/Xilinx_ISE/Workspace/BinaryCounterCB/BinaryCounterCB.v" Line 29: Size mismatch in connection of port <T>. Formal port size is 1-bit while actual signal size is 32-bit.
+Completed static elaboration
+Compiling module DFF
+Compiling module TFF
+Compiling module BinaryCounterCB
+Compiling module test
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 5 Verilog Units
+Built simulation executable D:/DesktopApps/Xilinx_ISE/Workspace/BinaryCounterCB/test_isim_beh.exe
+Fuse Memory Usage: 28104 KB
+Fuse CPU Usage: 687 ms

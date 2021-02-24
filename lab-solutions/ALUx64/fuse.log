@@ -1,0 +1,54 @@
+Running: fuse.exe -relaunch -intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "D:/DesktopApps/Xilinx_ISE/Workspace/ALUx64/test_isim_beh.exe" -prj "D:/DesktopApps/Xilinx_ISE/Workspace/ALUx64/test_beh.prj" "work.test" "work.glbl" 
+ISim P.58f (signature 0x8ef4fb42)
+Number of CPUs detected in this system: 4
+Turning on mult-threading, number of parallel sub-compilation jobs: 8 
+Determining compilation order of HDL files
+Analyzing Verilog file "D:/DesktopApps/Xilinx_ISE/Workspace/ALUx64/alux64.v" into library work
+WARNING:HDLCompiler:568 - "D:/DesktopApps/Xilinx_ISE/Workspace/ALUx64/alux64.v" Line 33: Constant value is truncated to fit in <4> bits.
+WARNING:HDLCompiler:568 - "D:/DesktopApps/Xilinx_ISE/Workspace/ALUx64/alux64.v" Line 34: Constant value is truncated to fit in <4> bits.
+WARNING:HDLCompiler:568 - "D:/DesktopApps/Xilinx_ISE/Workspace/ALUx64/alux64.v" Line 35: Constant value is truncated to fit in <4> bits.
+WARNING:HDLCompiler:568 - "D:/DesktopApps/Xilinx_ISE/Workspace/ALUx64/alux64.v" Line 36: Constant value is truncated to fit in <4> bits.
+WARNING:HDLCompiler:568 - "D:/DesktopApps/Xilinx_ISE/Workspace/ALUx64/alux64.v" Line 37: Constant value is truncated to fit in <4> bits.
+WARNING:HDLCompiler:568 - "D:/DesktopApps/Xilinx_ISE/Workspace/ALUx64/alux64.v" Line 38: Constant value is truncated to fit in <4> bits.
+WARNING:HDLCompiler:568 - "D:/DesktopApps/Xilinx_ISE/Workspace/ALUx64/alux64.v" Line 39: Constant value is truncated to fit in <4> bits.
+WARNING:HDLCompiler:568 - "D:/DesktopApps/Xilinx_ISE/Workspace/ALUx64/alux64.v" Line 40: Constant value is truncated to fit in <4> bits.
+WARNING:HDLCompiler:568 - "D:/DesktopApps/Xilinx_ISE/Workspace/ALUx64/alux64.v" Line 41: Constant value is truncated to fit in <4> bits.
+WARNING:HDLCompiler:568 - "D:/DesktopApps/Xilinx_ISE/Workspace/ALUx64/alux64.v" Line 42: Constant value is truncated to fit in <4> bits.
+WARNING:HDLCompiler:568 - "D:/DesktopApps/Xilinx_ISE/Workspace/ALUx64/alux64.v" Line 43: Constant value is truncated to fit in <4> bits.
+WARNING:HDLCompiler:568 - "D:/DesktopApps/Xilinx_ISE/Workspace/ALUx64/alux64.v" Line 44: Constant value is truncated to fit in <4> bits.
+WARNING:HDLCompiler:568 - "D:/DesktopApps/Xilinx_ISE/Workspace/ALUx64/alux64.v" Line 45: Constant value is truncated to fit in <4> bits.
+WARNING:HDLCompiler:568 - "D:/DesktopApps/Xilinx_ISE/Workspace/ALUx64/alux64.v" Line 46: Constant value is truncated to fit in <4> bits.
+WARNING:HDLCompiler:568 - "D:/DesktopApps/Xilinx_ISE/Workspace/ALUx64/alux64.v" Line 47: Constant value is truncated to fit in <4> bits.
+WARNING:HDLCompiler:568 - "D:/DesktopApps/Xilinx_ISE/Workspace/ALUx64/alux64.v" Line 48: Constant value is truncated to fit in <4> bits.
+Analyzing Verilog file "D:/DesktopApps/Xilinx_ISE/Workspace/ALUx64/test.v" into library work
+WARNING:HDLCompiler:568 - "D:/DesktopApps/Xilinx_ISE/Workspace/ALUx64/test.v" Line 58: Constant value is truncated to fit in <4> bits.
+WARNING:HDLCompiler:568 - "D:/DesktopApps/Xilinx_ISE/Workspace/ALUx64/test.v" Line 66: Constant value is truncated to fit in <4> bits.
+WARNING:HDLCompiler:568 - "D:/DesktopApps/Xilinx_ISE/Workspace/ALUx64/test.v" Line 74: Constant value is truncated to fit in <4> bits.
+WARNING:HDLCompiler:568 - "D:/DesktopApps/Xilinx_ISE/Workspace/ALUx64/test.v" Line 82: Constant value is truncated to fit in <4> bits.
+WARNING:HDLCompiler:568 - "D:/DesktopApps/Xilinx_ISE/Workspace/ALUx64/test.v" Line 90: Constant value is truncated to fit in <4> bits.
+WARNING:HDLCompiler:568 - "D:/DesktopApps/Xilinx_ISE/Workspace/ALUx64/test.v" Line 98: Constant value is truncated to fit in <4> bits.
+WARNING:HDLCompiler:568 - "D:/DesktopApps/Xilinx_ISE/Workspace/ALUx64/test.v" Line 106: Constant value is truncated to fit in <4> bits.
+WARNING:HDLCompiler:568 - "D:/DesktopApps/Xilinx_ISE/Workspace/ALUx64/test.v" Line 114: Constant value is truncated to fit in <4> bits.
+WARNING:HDLCompiler:568 - "D:/DesktopApps/Xilinx_ISE/Workspace/ALUx64/test.v" Line 122: Constant value is truncated to fit in <4> bits.
+WARNING:HDLCompiler:568 - "D:/DesktopApps/Xilinx_ISE/Workspace/ALUx64/test.v" Line 130: Constant value is truncated to fit in <4> bits.
+WARNING:HDLCompiler:568 - "D:/DesktopApps/Xilinx_ISE/Workspace/ALUx64/test.v" Line 138: Constant value is truncated to fit in <4> bits.
+WARNING:HDLCompiler:568 - "D:/DesktopApps/Xilinx_ISE/Workspace/ALUx64/test.v" Line 146: Constant value is truncated to fit in <4> bits.
+WARNING:HDLCompiler:568 - "D:/DesktopApps/Xilinx_ISE/Workspace/ALUx64/test.v" Line 154: Constant value is truncated to fit in <4> bits.
+WARNING:HDLCompiler:568 - "D:/DesktopApps/Xilinx_ISE/Workspace/ALUx64/test.v" Line 162: Constant value is truncated to fit in <4> bits.
+WARNING:HDLCompiler:568 - "D:/DesktopApps/Xilinx_ISE/Workspace/ALUx64/test.v" Line 170: Constant value is truncated to fit in <4> bits.
+WARNING:HDLCompiler:568 - "D:/DesktopApps/Xilinx_ISE/Workspace/ALUx64/test.v" Line 178: Constant value is truncated to fit in <4> bits.
+WARNING:HDLCompiler:568 - "D:/DesktopApps/Xilinx_ISE/Workspace/ALUx64/test.v" Line 186: Constant value is truncated to fit in <4> bits.
+WARNING:HDLCompiler:568 - "D:/DesktopApps/Xilinx_ISE/Workspace/ALUx64/test.v" Line 194: Constant value is truncated to fit in <4> bits.
+Analyzing Verilog file "D:/DesktopApps/Xilinx_ISE/14.5/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+Completed static elaboration
+Fuse Memory Usage: 159652 KB
+Fuse CPU Usage: 406 ms
+Compiling module alux64
+Compiling module test
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Compiled 3 Verilog Units
+Built simulation executable D:/DesktopApps/Xilinx_ISE/Workspace/ALUx64/test_isim_beh.exe
+Fuse Memory Usage: 164964 KB
+Fuse CPU Usage: 468 ms
